@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/54edbc7200b811e956000556
+
 package kata
 
 func CountSheeps(numbers []bool) int {
